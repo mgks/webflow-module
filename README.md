@@ -9,5 +9,8 @@ One way to build a website is just sit on a chair and hit the framework and get 
 - Everything become pluggable automatically
 
 ```
+# STRATEGY SESSION
+  Plans
+  Target Audience
 ...
 ```
