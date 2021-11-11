@@ -14,5 +14,6 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Target Audience
   Offerings
   Communicate to users
+  Identity
 ...
 ```
