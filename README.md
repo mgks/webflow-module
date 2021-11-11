@@ -15,5 +15,9 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Offerings
   Communicate to users
   Identity
+
+# GOALS
+  Achievement
+  
 ...
 ```
