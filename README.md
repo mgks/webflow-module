@@ -18,6 +18,9 @@ One way to build a website is just sit on a chair and hit the framework and get 
 
 # GOALS
   Achievement
-  
+  Visitors
+  Input
+  Needs and Expectations
+  Visual References
 ...
 ```
