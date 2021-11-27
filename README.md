@@ -32,5 +32,6 @@ One way to build a website is just sit on a chair and hit the framework and get 
 # DESIGN
   Story
   Frame
+  Colors
 ...
 ```
