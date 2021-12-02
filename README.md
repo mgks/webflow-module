@@ -10,7 +10,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 
 ```
 # STRATEGY SESSION
-  Plans
+  Plans - Ordering/Reordering/Adding/Removing the following points
   Target Audience
   Offerings
   Communicate to users
