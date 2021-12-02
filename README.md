@@ -12,7 +12,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 # STRATEGY SESSION
   Plans - Ordering/Reordering/Adding/Removing the following points
   Target Audience - Selecting the audience you want to attract to your website
-  Offerings
+  Offerings - What services/products your website offers
   Communicate to users
   Identity
 
