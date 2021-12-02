@@ -14,7 +14,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Target Audience - Selecting the audience you want to attract to your website
   Offerings - What services/products your website offers
   Communicate to users - Mode of communications to be made available to visiters
-  Identity - 
+  Identity - Finalize website identity and body persona
 
 # GOALS
   Achievement
