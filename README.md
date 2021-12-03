@@ -19,7 +19,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 # GOALS
   Achievement - Periodic goals overview for website
   Visitors - Daily/Monthly/Periodically expected new/returning visitor counts
-  Input
+  Input - User data inputs/conversion targets
   Needs and Expectations
   Visual References
  
