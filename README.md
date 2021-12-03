@@ -17,7 +17,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Identity - Finalize website identity and body persona
 
 # GOALS
-  Achievement
+  Achievement - Periodic goals overview for website
   Visitors
   Input
   Needs and Expectations
