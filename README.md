@@ -24,7 +24,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Visual References - Any reference points you want the website to take key notes from
  
  # WIREFRAME
-  Sitemap
+  Sitemap - Create website pages architecture
   Structure
   Navigation
   User Flow
