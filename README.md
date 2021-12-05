@@ -30,7 +30,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   User Flow - Starting from homepage to exit page
 
 # DESIGN
-  Story
+  Story - Make a story that you want to tell your users through the website
   Frame - Web pages frame/skeleton (only HTML) design
   Colors
   Responsiveness
