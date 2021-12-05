@@ -25,7 +25,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
  
  # WIREFRAME
   Sitemap - Create website pages architecture
-  Structure
+  Structure - Directory and file management design
   Navigation
   User Flow
 
