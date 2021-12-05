@@ -27,7 +27,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Sitemap - Create website pages architecture
   Structure - Directory and file management design
   Navigation - Visible hyperlink options available for user
-  User Flow
+  User Flow - Starting from homepage to exit page
 
 # DESIGN
   Story
