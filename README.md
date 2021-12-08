@@ -31,9 +31,9 @@ One way to build a website is just sit on a chair and hit the framework and get 
 
 # DESIGN
   Story - Make a story that you want to tell your users through the website
-  Frame - Web pages frame/skeleton (only HTML) design
+  Frame - Designing web pages frame/skeleton (only HTML)
   Colors - Primary, Secondry and overall color palette selection
-  Responsiveness
+  Responsiveness - 
 
 # FLOW
   Triggers
