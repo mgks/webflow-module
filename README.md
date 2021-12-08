@@ -36,8 +36,8 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Responsiveness - CSS optimization and website responsive behaviour implementation
 
 # FLOW
-  Triggers
-  Libraries
+  Triggers - Performing onpage, scroll and other triggers via active scripts if needed
+  Libraries - Implementation of external active scripts and stylesheets
   Actions
 
 # PLUGS
