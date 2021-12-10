@@ -42,7 +42,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 
 # PLUGS
   Optimization - It is time to shed some weight and compress files
-  Tracking
+  Tracking - Adding traffic analyzing scripts and meta
 
 # FINALIZATION
 
