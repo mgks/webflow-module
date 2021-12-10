@@ -41,7 +41,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Actions - Points from which you can trigger particar tasks
 
 # PLUGS
-  Optimization
+  Optimization - It is time to shed some weight and compress files
   Tracking
 
 # FINALIZATION
