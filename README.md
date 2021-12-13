@@ -3,7 +3,7 @@ A repo that homes all the steps (required/optional) to build a well documented w
 
 One way to build a website is just sit on a chair and hit the framework and get done with stylesheets, the other way is to do it all professionally or to say in a clean, commented and curated way. Just a few benefits of it &minus;
 - Clear timeline of milestone execution and objective of the project
-- Customer/user persona clarity (if needed)
+- Customer/user persona clarity (if any)
 - Easier to collaborate for teams
 - Whoever reads it will know what's where in the source code
 - Everything become pluggable automatically
