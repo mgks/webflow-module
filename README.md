@@ -5,7 +5,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 - Clear timeline of milestone execution and objective of the project
 - Customer/user persona clarity (if any)
 - Easier to collaborate for teams
-- Whoever reads it will know what's where in the source code
+- Documentational clarity of the source code
 - Everything become pluggable automatically
 
 ```
