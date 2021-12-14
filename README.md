@@ -6,7 +6,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 - Customer/user persona clarity (if any)
 - Easier to collaborate for teams
 - Documentational clarity of the source code
-- Everything become pluggable automatically
+- Everything becomes pluggable automatically
 
 ```
 # STRATEGY SESSION
