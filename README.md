@@ -25,7 +25,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
  
  # WIREFRAME
   Structure - Directory and file management design
-  Sitemap - Designing web pages directory architecture
+  Sitemap - Designing web pages tree and their relations
   Navigation - Visible hyperlink options available for user
   User Flow - Starting from homepage to exit page
 
