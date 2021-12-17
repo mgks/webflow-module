@@ -15,36 +15,42 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Offerings - Services/products going to be placed on the website
   Communication - Communication channels to be made available to your users/visiters
   Identity - Understanding website identity and body persona
-
+```
+```
 # GOALS
   Achievement - Periodic goals and markdown leaps for website
   Visitors - Daily/Monthly/Periodically expected new/returning visitor stats
   Input - Specific data collection for target conversions
   Needs & Expectations - User/visitor target expectation
   Visual References - Any visible reference points you want to take key notes from
- 
+```
+```
  # WIREFRAME
   Structure - Directory and file management design
   Sitemap - Designing web pages tree and their relations
   Navigation - Visible hyperlink options available for user
   User Flow - Starting from homepage to exit page
-
+```
+```
 # DESIGN
   Story - Make a story that you want to tell your users through the website
   Frame - Designing web pages frame/skeleton (only HTML)
   Colors - Primary, Secondry and overall color palette selection
   Responsiveness - CSS optimization and website responsive behaviour implementation
-
+```
+```
 # FLOW
   Triggers - Performing onpage, scroll and other triggers via active scripts if needed
   Libraries - Implementation of external active scripts and stylesheets
   Actions - Points from which you can trigger particar tasks
-
+```
+```
 # PLUGS
   Optimization - It is time to shed some weight and compress files
   Tracking - Adding traffic analyzing scripts and meta
-
+```
+```
 # FINALIZATION
   And you're almost done!
-...
+  ...
 ```
