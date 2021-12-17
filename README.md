@@ -21,7 +21,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Visitors - Daily/Monthly/Periodically expected new/returning visitor stats
   Input - Specific data collection for target conversions
   Needs & Expectations - User/visitor target expectation
-  Visual References - Any reference points you want the website to take key notes from
+  Visual References - Any visible reference points you want to take key notes from
  
  # WIREFRAME
   Structure - Directory and file management design
