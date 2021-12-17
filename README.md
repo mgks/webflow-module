@@ -17,7 +17,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
   Identity - Understanding website identity and body persona
 
 # GOALS
-  Achievement - Periodic goals overview for website
+  Achievement - Periodic goals and markdown leaps for website
   Visitors - Daily/Monthly/Periodically expected new/returning visitor counts
   Input - Specific data collection and target conversions
   Needs and Expectations - What is expected of your visitors
