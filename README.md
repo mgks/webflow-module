@@ -41,7 +41,7 @@ One way to build a website is just sit on a chair and hit the framework and get 
 ```
 # FLOW
   Triggers - Developing onpage, scroll and other triggers via active scripts if needed
-  Libraries - Implementation of external active scripts and stylesheets
+  Libraries - Implementation of external active scripts and stylesheets (if needed)
   Actions - Points from which you can trigger particar tasks
 ```
 ```
